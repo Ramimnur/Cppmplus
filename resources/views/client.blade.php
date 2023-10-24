@@ -238,7 +238,7 @@
       </p>
     </div>
   </div>
-  <div  style="text-align: center; padding-bottom: 15px;"><a href="frontfaqs" >Autre Questions..</a></div>
+  <div  style="text-align: center; padding-bottom: 15px;"><a href="FAQS" >Autre Questions..</a></div>
 </section>
     </div>
 </div>
